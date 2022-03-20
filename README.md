@@ -4,6 +4,10 @@
 
 | 김근성 | 박종현 | 김현지 | 오준석 |
 | --- | --- | --- | --- |
+| ![](https://avatars.githubusercontent.com/u/76468787) | ![](https://avatars.githubusercontent.com/u/13766489) | ![](https://avatars.githubusercontent.com/u/45036629) | ![](https://avatars.githubusercontent.com/u/80884697) | 
+| [@rootachieve](https://github.com/rootachieve) | [@ShapeLayer](https://github.com/ShapeLayer) | [@HyeonDKIM](https://github.com/onsbtyd) | [@junssg](https://github.com/junssg) |
+| ![](https://mazassumnida.wtf/api/mini/generate_badge?boj=onsbtyd) | ![](https://mazassumnida.wtf/api/mini/generate_badge?boj=belline0124) | ![](https://mazassumnida.wtf/api/mini/generate_badge?boj=aquaifnt7) | ![](https://mazassumnida.wtf/api/mini/generate_badge?boj=ojs8752) |
+
 ## 공통 문제
 
 | 주차 | 문제이름 | 문제 태그 | 문제이름 | 문제 태그 |
