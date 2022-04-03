@@ -5,7 +5,7 @@
 | 김근성 | 박종현 | 김현지 | 오준석 |
 | :-: | :-: | :-: | :-: |
 | ![](https://avatars.githubusercontent.com/u/76468787) | ![](https://avatars.githubusercontent.com/u/13766489) | ![](https://avatars.githubusercontent.com/u/45036629) | ![](https://avatars.githubusercontent.com/u/80884697) | 
-| [@rootachieve](https://github.com/rootachieve)<br>![](https://mazassumnida.wtf/api/mini/generate_badge?boj=onsbtyd) | [@ShapeLayer](https://github.com/ShapeLayer)<br>![](https://mazassumnida.wtf/api/mini/generate_badge?boj=belline0124) | [@HyeonDKIM](https://github.com/onsbtyd)<br>![](https://mazassumnida.wtf/api/mini/generate_badge?boj=aquaifnt7) | [@junssg](https://github.com/junssg)<br>![](https://mazassumnida.wtf/api/mini/generate_badge?boj=ojs8752) |
+| [@rootachieve](https://github.com/rootachieve)<br>![](https://mazassumnida.wtf/api/mini/generate_badge?boj=onsbtyd) | [@ShapeLayer](https://github.com/ShapeLayer)<br>![](https://mazassumnida.wtf/api/mini/generate_badge?boj=belline0124) | [@HyeonDKIM](https://github.com/HyeonDKIM)<br>![](https://mazassumnida.wtf/api/mini/generate_badge?boj=aquaifnt7) | [@junssg](https://github.com/junssg)<br>![](https://mazassumnida.wtf/api/mini/generate_badge?boj=ojs8752) |
 
 ## 공통 문제
 
