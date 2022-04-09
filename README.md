@@ -2,10 +2,10 @@
 
 ## 멤버
 
-| 김근성 | 박종현 | 김현지 | 오준석 |
-| :-: | :-: | :-: | :-: |
-| ![](https://avatars.githubusercontent.com/u/76468787) | ![](https://avatars.githubusercontent.com/u/13766489) | ![](https://avatars.githubusercontent.com/u/45036629) | ![](https://avatars.githubusercontent.com/u/80884697) | 
-| [@rootachieve](https://github.com/rootachieve)<br>![](https://mazassumnida.wtf/api/mini/generate_badge?boj=onsbtyd) | [@ShapeLayer](https://github.com/ShapeLayer)<br>![](https://mazassumnida.wtf/api/mini/generate_badge?boj=belline0124) | [@HyeonDKIM](https://github.com/HyeonDKIM)<br>![](https://mazassumnida.wtf/api/mini/generate_badge?boj=aquaifnt7) | [@junssg](https://github.com/junssg)<br>![](https://mazassumnida.wtf/api/mini/generate_badge?boj=ojs8752) |
+| 김근성 | 박종현 | 김현지 | 오준석 | 고민규 |
+| :-: | :-: | :-: | :-: | :-: |
+| ![](https://avatars.githubusercontent.com/u/76468787) | ![](https://avatars.githubusercontent.com/u/13766489) | ![](https://avatars.githubusercontent.com/u/45036629) | ![](https://avatars.githubusercontent.com/u/80884697) | ![](https://avatars.githubusercontent.com/u/102343371) |
+| [@rootachieve](https://github.com/rootachieve)<br>![](https://mazassumnida.wtf/api/mini/generate_badge?boj=onsbtyd) | [@ShapeLayer](https://github.com/ShapeLayer)<br>![](https://mazassumnida.wtf/api/mini/generate_badge?boj=belline0124) | [@HyeonDKIM](https://github.com/HyeonDKIM)<br>![](https://mazassumnida.wtf/api/mini/generate_badge?boj=aquaifnt7) | [@junssg](https://github.com/junssg)<br>![](https://mazassumnida.wtf/api/mini/generate_badge?boj=ojs8752) |  [@klmchljeon](https://github.com/klmchljeon)<br>![](https://mazassumnida.wtf/api/mini/generate_badge?boj=jjkmk1013)  |
 
 ## 공통 문제
 
